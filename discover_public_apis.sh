@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the main domain and output files
-DOMAIN="paypal.com"
+DOMAIN="example.com"
 SUBDOMAINS_FILE="subdomains.txt"
 ENDPOINTS_FILE="endpoints.txt"
 RESULTS_FILE="public_endpoints_results.txt"
